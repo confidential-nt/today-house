@@ -1,0 +1,21 @@
+{
+  "name": "today-house",
+  "version": "1.0.0",
+  "description": "practicing..",
+  "scripts": {
+    "sass": "node-sass -wr --source-map true styles/main.scss ./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/confidential-nt/today-house.git"
+  },
+  "author": "confidential-nt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/confidential-nt/today-house/issues"
+  },
+  "homepage": "https://github.com/confidential-nt/today-house#readme",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
